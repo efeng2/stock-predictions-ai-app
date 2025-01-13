@@ -1,8 +1,6 @@
 # stock-predictions-ai-app
 From coursera course "Build AI Apps with ChatGPT, Dall-E, and GPT-4"
 
-# cob324d5993713c3858c2a700
-
 Quick start:
 
 ```
